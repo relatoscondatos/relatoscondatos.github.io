@@ -11,25 +11,11 @@ footer: 'Contacto <a href="mailto://contacto@relatoscondatos.cl">contacto@relato
 </div>
 
 
-## Relatos recientes
+## Relatos recientes <img src="./relatoscondatos.png" height="20px">  
+---
+### [¿La edad en que morimos depende de dónde vivimos?](https://www.relatoscondatos.cl/la-edad-en-que-morimos/)
+Este relato muestra la distribución de la edad de defunción en Chile y compara esta distribución en distintas comunas
 
-
-<div class="grid grid-cols-2">
-
-<div class="card">
-<div class="grid grid-cols-4">
-<div class="grid-colspan-1">
-<img src="./relatoscondatos.png" width="50%">
-</div>
-<div class="grid-colspan-3">
-<h2>¿La edad en que morimos depende de dónde vivimos?</h2>
-
-https://www.relatoscondatos.cl/la-edad-en-que-morimos/
-</div>
-</div>
-
-</div>
-</div>
 
 
 
