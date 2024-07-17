@@ -11,6 +11,28 @@ footer: 'Contacto <a href="mailto://contacto@relatoscondatos.cl">contacto@relato
 </div>
 
 
+## Relatos recientes
+
+
+<div class="grid grid-cols-2">
+
+<div class="card">
+<div class="grid grid-cols-4">
+<div class="grid-colspan-1">
+<img src="./relatoscondatos.png" width="50%">
+</div>
+<div class="grid-colspan-3">
+<h2>¿La edad en que morimos depende de dónde vivimos?</h2>
+
+https://www.relatoscondatos.cl/la-edad-en-que-morimos/
+</div>
+</div>
+
+</div>
+</div>
+
+
+
 <style>
 
 .hero {
