@@ -16,8 +16,8 @@ footer: 'Contacto <a href="mailto://contacto@relatoscondatos.cl">contacto@relato
 ### [¿La edad en que morimos depende de dónde vivimos?](https://www.relatoscondatos.cl/la-edad-en-que-morimos/)
 Este relato muestra la distribución de la edad de defunción en Chile y compara esta distribución en distintas comunas
 
-### [PIB & PIB per capita](https://www.relatoscondatos.cl/pib-per-capita/)
-Este relato muestra ilustra los conceptos asociados al Producto Interno Bruto (PIB Per cápita / Precios Constantes / Ajustado por poder de compra)
+### [El PIB y su impacto: Total, Per Cápita y Ajustado por Poder Adquisitivo](https://www.relatoscondatos.cl/pib-per-capita/)
+Descubre cómo medimos el tamaño de una economía y su impacto en la vida de las personas. Este relato visualiza el Producto Interno Bruto (PIB) en sus diferentes formas: total, per cápita, ajustado por inflación y por poder adquisitivo, para entender mejor la evolución económica de Chile y el mundo.
 
 
 
