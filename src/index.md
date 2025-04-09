@@ -19,7 +19,8 @@ Este relato muestra la distribución de la edad de defunción en Chile y compara
 ### [El PIB y su impacto: Total, Per Cápita y Ajustado por Poder Adquisitivo](https://www.relatoscondatos.cl/pib-per-capita/)
 Descubre cómo medimos el tamaño de una economía y su impacto en la vida de las personas. Este relato visualiza el Producto Interno Bruto (PIB) en sus diferentes formas: total, per cápita, ajustado por inflación y por poder adquisitivo, para entender mejor la evolución económica de Chile y el mundo.
 
-
+### [Evolución del empleo en Chile (2011–2025)](https://www.relatoscondatos.cl/empleo_agentic)
+Este análisis visualiza cómo ha cambiado la composición del empleo en Chile durante los últimos 15 años. Examina tendencias en empleo formal e informal, subempleo, nivel educativo, sector público, nacionalidad y participación laboral por sexo, con datos de la Encuesta Nacional de Empleo (ENE).
 
 
 <style>
