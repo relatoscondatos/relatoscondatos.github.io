@@ -13,6 +13,12 @@ footer: 'Contacto <a href="mailto://contacto@relatoscondatos.cl">contacto@relato
 
 ## Relatos recientes <img src="./relatoscondatos.png" height="20px">  
 ---
+### [Explorador de Indicadores de Empleo en Chile (2010–2025)](https://www.relatoscondatos.cl/datos-empleo)
+Página interactiva que explora variables derivadas de la Encuesta Nacional de Empleo (ENE) del INE en Chile. Ofrece:
+* Gráficos de la evolución trimestral (Febrero–Marzo–Abril) para cada año entre 2011 y 2025.
+* Visualización del cambio acumulado por gobierno, desde Marzo 2010 hasta Marzo 2025.
+* Enlace para descargar la tabla de datos preprocesados y facilitar su análisis.
+
 ### [Evolución del empleo en Chile (2011–2025)](https://www.relatoscondatos.cl/empleo_agentic)
 Este análisis visualiza cómo ha cambiado la composición del empleo en Chile durante los últimos 15 años. Examina tendencias en empleo formal e informal, subempleo, nivel educativo, sector público, nacionalidad y participación laboral por sexo, con datos de la Encuesta Nacional de Empleo (ENE).
 
